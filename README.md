@@ -7,5 +7,6 @@ Download AutoHotkey <a href="https://www.autohotkey.com/">here</a>
 
 Usage:
 
-1. Start the Script with F10.
-2. You can stop the Script with F11, it will then reload.
+1. Load the Script by executing it.
+2. Start the Script with F10.
+3. You can stop the Script with F11, it will then reload.
