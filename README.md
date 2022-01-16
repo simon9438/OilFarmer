@@ -1,9 +1,6 @@
 # OilFarmer
 This AHK Script farms Oil Barrels automatically on the RAGE MP Server Grand RP.
-
-Prerequisites:
-
-Download AutoHotkey <a href="https://www.autohotkey.com/">here</a>
+You need the skill on level 3 to use the Script.
 
 Usage:
 
